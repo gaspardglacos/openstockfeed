@@ -1,7 +1,11 @@
-certifi
-requests
-pandas
-yfinance
-matplotlib
-psutil
-playwright
+# Runtime dependencies for the openstockfeed package (the `osf` CLI).
+# These mirror the dependencies declared in pyproject.toml.
+
+playwright>=1.40
+psutil>=5.9
+requests>=2.31
+
+# Note: gold.py (a separate utility script in this repo) additionally needs
+# certifi, pandas, yfinance, and matplotlib. Install them manually only if
+# you intend to run that file:
+#   pip install certifi pandas yfinance matplotlib
