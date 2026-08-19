@@ -35,5 +35,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automatic Edge/EdgeDriver cleanup on exit.
 - `pyproject.toml` build metadata; PyPI distribution.
 
-[Unreleased]: https://github.com/gbeharel/openstockfeed/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/gbeharel/openstockfeed/releases/tag/v0.1.0
+[Unreleased]: https://github.com/gaspardglacos/openstockfeed/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/gaspardglacos/openstockfeed/releases/tag/v0.1.0

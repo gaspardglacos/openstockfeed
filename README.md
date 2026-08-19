@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![CI](https://github.com/gbeharel/openstockfeed/actions/workflows/ci.yml/badge.svg)](https://github.com/gbeharel/openstockfeed/actions/workflows/ci.yml)
+[![CI](https://github.com/gaspardglacos/openstockfeed/actions/workflows/ci.yml/badge.svg)](https://github.com/gaspardglacos/openstockfeed/actions/workflows/ci.yml)
 
 OpenStockFeed is a lightweight command-line tool that watches live stock prices from a browser-rendered market page and outputs a new value only when the price changes.
 
@@ -91,7 +91,7 @@ osf --help
 ## Development
 
 ```bash
-git clone https://github.com/gbeharel/openstockfeed.git
+git clone https://github.com/gaspardglacos/openstockfeed.git
 cd openstockfeed
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
