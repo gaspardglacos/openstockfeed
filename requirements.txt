@@ -1,0 +1,7 @@
+certifi
+requests
+pandas
+yfinance
+matplotlib
+psutil
+playwright
